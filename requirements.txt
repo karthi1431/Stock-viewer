@@ -4,3 +4,4 @@ plotly
 nselib
 yfinance
 openpyxl
+pandas-market-calendars
